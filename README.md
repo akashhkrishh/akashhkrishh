@@ -25,7 +25,7 @@ I like writing,sharing my knowledge with other engineers.
 - 🌱 I’m currently learning Master of Computer Applications
 - 👯 I’m looking to collaborate on open source Flutter project 
 - 💬 Ask me about Flutter | React | C++ | Java
-- 📫 How to reach me: [Github](https://github.com/akashhkrishh),[Twitter](https://twitter.com/akashhkrishh),, [Linkedin](https://www.linkedin.com/in/akashhkrishh/)
+- 📫 How to reach me: [Github](https://github.com/akashhkrishh), [Twitter](https://twitter.com/akashhkrishh), [Linkedin](https://www.linkedin.com/in/akashhkrishh/)
 - 😄 Pronouns:  He/him
 
 
