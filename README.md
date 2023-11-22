@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-I am a Software engineer with building applications using Flutter,React
-I love mobile apps, distributed systems, open source projects and the challenges associated with them.
-I like writing,sharing my knowledge with other engineers.
+I am a Software Developer with building applications using Flutter, React, Node
+I love mobile apps, open source projects and the challenges associated with them.
+I like writing,sharing my knowledge with others.
 
 <img align ="right" src = "https://img.freepik.com/premium-vector/business-man-desktop-with-laptop-freelancer-office-worker_88114-415.jpg?w=740" width="150" height="150">
 
