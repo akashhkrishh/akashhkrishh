@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-I am a Software Developer with building applications using React, Node
+I am a Software Developer with building applications using React, Node. 
 I like writing,sharing my knowledge with others.
 
 <img align ="right" src = "https://img.freepik.com/premium-vector/business-man-desktop-with-laptop-freelancer-office-worker_88114-415.jpg?w=740" width="100" height="100">
