@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I am a Software Developer with building applications using React, Node
 I like writing,sharing my knowledge with others.
 
-<img align ="right" src = "https://img.freepik.com/premium-vector/business-man-desktop-with-laptop-freelancer-office-worker_88114-415.jpg?w=740" width="150" height="150">
+<img align ="right" src = "https://img.freepik.com/premium-vector/business-man-desktop-with-laptop-freelancer-office-worker_88114-415.jpg?w=740" width="100" height="100">
 
 - 🌱 I’m currently learning Master of Computer Applications
 - 💬 Ask me about React | C++ | Java
