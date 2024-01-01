@@ -22,6 +22,7 @@ I like writing,sharing my knowledge with others.
 <img align ="right" src = "https://img.freepik.com/premium-vector/business-man-desktop-with-laptop-freelancer-office-worker_88114-415.jpg?w=740" width="100" height="100">
 
 - 🌱 I’m currently learning Master of Computer Applications
+- ⚡ Learning Flutter ...
 - 💬 Ask me about React | C++ | Java
 - 📫 How to reach me: [Github](https://github.com/akashhkrishh), [Twitter](https://twitter.com/akashhkrishh), [Linkedin](https://www.linkedin.com/in/akashhkrishh/)
 - 😄 Pronouns:  He/him
