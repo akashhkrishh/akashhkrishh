@@ -23,7 +23,7 @@ I like writing,sharing my knowledge with others.
 
 - 🌱 I’m currently learning Master of Computer Applications
 - ⚡ Learning Flutter ...
-- 💬 Ask me about React | C++ | Java
+- 💬 Ask me about React | Python | Java
 - 📫 How to reach me: [Github](https://github.com/akashhkrishh), [Twitter](https://twitter.com/akashhkrishh), [Linkedin](https://www.linkedin.com/in/akashhkrishh/)
 - 😄 Pronouns:  He/him
 
