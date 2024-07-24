@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-I am a Software Developer with building applications using React, Node. 
-I like writing,sharing my knowledge with others.
+I am a Software Developer building applications using React, NodeJS. I like writing & sharing my knowledge with others..
 
 <img align ="right" src = "https://img.freepik.com/free-vector/hand-drawn-flat-design-anarchy-symbol_23-2149244761.jpg?w=740" style="border-radius: 10%;" width="100" height="100">
 
