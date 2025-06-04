@@ -20,7 +20,6 @@ I am a Software Developer building applications using React, NodeJS. I like writ
 
 <img align ="right" src = "https://img.freepik.com/free-vector/hand-drawn-flat-design-anarchy-symbol_23-2149244761.jpg?w=740" style="border-radius: 10%;" width="100" height="100">
 
-- 🌱 I’m currently learning Master of Computer Applications
 - ⚡ Learning Flutter ...
 - 💬 Ask me about React | Python | Java
 - 📫 How to reach me: [Github](https://github.com/akashhkrishh), [Twitter](https://twitter.com/akashhkrishh), [Linkedin](https://www.linkedin.com/in/akashhkrishh/)
